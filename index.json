@@ -1,0 +1,11 @@
+{
+  "org": "klen",
+  "repo": "muffin-sentry",
+  "versions": [
+    {
+      "commit": "bc97360dfa4339e4b9af4bf769e6c84117e1bdda",
+      "tag": "",
+      "parsed_at": "2026-10-20T21:39:27.140891+00:00"
+    }
+  ]
+}
