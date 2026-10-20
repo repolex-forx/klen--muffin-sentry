@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/klen/muffin-sentry/commit/bc97360dfa4339e4b9af4bf769e6c84117e1bdda",
       "git:hexsha": "bc97360dfa4339e4b9af4bf769e6c84117e1bdda",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/klen/muffin-sentry/commit/c718d0c86c15aa355d922f57d732d1363b381243",
